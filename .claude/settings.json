@@ -1,0 +1,20 @@
+{
+  "enabledPlugins": {
+    "humanizer@humanizer": true,
+    "explainer-studio@explainer-studio": true
+  },
+  "extraKnownMarketplaces": {
+    "humanizer": {
+      "source": {
+        "source": "github",
+        "repo": "blader/humanizer"
+      }
+    },
+    "explainer-studio": {
+      "source": {
+        "source": "github",
+        "repo": "reedodev/explainer-studio"
+      }
+    }
+  }
+}
